@@ -90,7 +90,7 @@ equ_img = cv2.equalizeHist(gray_image)
 
 ## Histogram of Grayscale Image and any channel of Color Image
 #### Grey Image
-![](grayscalevalue.png) <br>
+![](grayscale.png) <br>
 #### Blue Channel
 ![](bluevalue.png) <br>
 #### Green Channel
