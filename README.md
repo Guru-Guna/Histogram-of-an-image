@@ -25,8 +25,8 @@ Display the grayscale image.<br>
 ## Program:
 
 
-#### Developed By: Javith farkhan S
-#### Register Number: 212221240017
+#### Developed By: Gunaseelan G
+#### Register Number: 212221230031
 
 ```python
 import cv2
