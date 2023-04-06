@@ -61,7 +61,7 @@ h3 = cv2.calcHist([color_image],[2],None,[256],[0,255])
 ```python
 import cv2
 import matplotlib.pyplot as plt
-gray_image =cv2.imread('car.png',0)
+gray_image =cv2.imread('jawa.png',0)
 cv2.imshow('gray_image',gray_image) 
 cv2.waitKey(0) 
 cv2.destroyAllWindows()
@@ -70,7 +70,7 @@ cv2.destroyAllWindows()
 ```python
 import cv2
 import matplotlib.pyplot as plt
-color_image =cv2.imread('car.png',-1)
+color_image =cv2.imread('jawa.png',-1)
 cv2.imshow('color_image',color_image) 
 cv2.waitKey(0) 
 cv2.destroyAllWindows()
@@ -84,22 +84,22 @@ equ_img = cv2.equalizeHist(gray_image)
 # Output:
 ## Input Grayscale Image and Color Image
 
-<br>![](gray_image.png)<br>
-<br>![](color_image.png)<br>
+<br>![](gray_image_G.png)<br>
+<br>![](color_image_G.png)<br>
 
 
 ## Histogram of Grayscale Image and any channel of Color Image
 #### Grey Image
-![](Grayscale_value.png) <br>
+![](grayscalevalue.png) <br>
 #### Blue Channel
-![](Blue_value.png) <br>
+![](bluevalue.png) <br>
 #### Green Channel
-![](Green_value.png) <br>
+![](greenvalue.png) <br>
 #### Red Channel
-![](Red_value.png) <br>
+![](redvalue.png) <br>
 
 ## Histogram Equalization of Grayscale Image
-![](Equ_Hist.png) <br>
+![](equhist.png) <br>
 
 
 # Result: 
