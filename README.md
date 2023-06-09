@@ -90,16 +90,21 @@ equ_img = cv2.equalizeHist(gray_image)
 
 ## Histogram of Grayscale Image and any channel of Color Image
 #### Grey Image
-![](greyscale.png) <br>
+![1](https://github.com/Guru-Guna/Histogram-of-an-image/assets/93427255/622e1f8f-f28e-47fc-a7e5-d734be625d43)
+
 #### Blue Channel
-![](bluevalue.png) <br>
+![2](https://github.com/Guru-Guna/Histogram-of-an-image/assets/93427255/a28fd4df-5479-4f11-9c6b-42b4ef94d077)
+
 #### Green Channel
-![](greenvalue.png) <br>
+![3](https://github.com/Guru-Guna/Histogram-of-an-image/assets/93427255/d17541d1-410b-4607-9bc2-8f749e639e19)
+
 #### Red Channel
-![](redvalue.png) <br>
+
+![4](https://github.com/Guru-Guna/Histogram-of-an-image/assets/93427255/d63759dd-2b1b-4450-b91a-d7f8a4295c81)
 
 ## Histogram Equalization of Grayscale Image
-![](equhist.png) <br>
+
+![5](https://github.com/Guru-Guna/Histogram-of-an-image/assets/93427255/0f527afc-f05c-48ac-aee3-3313215beb27)
 
 
 # Result: 
